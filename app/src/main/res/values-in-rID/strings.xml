@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gitfind</string>
+    <string name="search">cari</string>
+
+    <string name="search_hint">Masukkan kata</string>
+    <string name="tvusernamedetail">tvusernamedetail</string>
+    <string name="tvnamedetail">tvnamedetail</string>
+    <string name="tvrepodetail">tvrepodetail</string>
+    <string name="tvcompanydetail">tvcompanydetail</string>
+    <string name="tvlocationdetail">tvlocationdetail</string>
+
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa Lokal</string>
+
+    <string name="reminder_setting">reminder setting</string>
+    <string name="daily_remxinder">daily reminder</string>
+    <string name="change_notification_settings">Notification Settings</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="add_favorite">"Added Favorite"</string>
+    <string name="delete_favorite">"Deleted Favorite"</string>
+    <string name="empty_favorite">Empty Data</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="daily_message">Find new favorite user on Github</string>
+</resources>
